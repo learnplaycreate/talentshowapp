@@ -15,7 +15,7 @@ function App() {
             <td>Activity</td>
           </tr>
           <tr>
-            <td>Liam</td>
+            <td>the winning</td>
             <td>Maknig Dumplings</td>
           </tr>
           <tr>
